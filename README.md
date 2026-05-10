@@ -26,7 +26,7 @@ Features
 
 Requirements
 
-· A good executor (recommended: Synapse X, KRNL, Fluxus, or ScriptWare)
+· A good executor (recommended: Synapse X, KRNL, Fluxus, Delta or Velocity)
 · Game must support boat spawning and prisoner collection
 
 Notes
