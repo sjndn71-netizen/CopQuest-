@@ -1,3 +1,4 @@
+# ⚠️ this repo is no longer maintained (event ended)
 ```markdown
 # Prisoner Auto - Boat Teleport Edition
 
